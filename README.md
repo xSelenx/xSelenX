@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hello World, I'm Selen 👋
+<img align="right" alt="GIF"
+src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/coder.gif" width="500" height="320" />
 <!--
 **xSelenx/xSelenX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
